@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=/home/gladiu/.cargo/registry/src/github.com-1ecc6299db9ec823/gdnative-sys-0.10.1/godot_headers/gdnative_api.json

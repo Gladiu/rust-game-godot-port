@@ -1,0 +1,1 @@
+/home/gladiu/godot-rust-game-test/rust/target/debug/libmy_gdnative_lib.so: /home/gladiu/godot-rust-game-test/rust/src/lib.rs /home/gladiu/godot-rust-game-test/rust/src/map.rs /home/gladiu/godot-rust-game-test/rust/src/start.rs
